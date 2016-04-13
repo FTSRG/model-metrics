@@ -16,6 +16,15 @@ _Towards the Characterization of Realistic Models: Evaluation of Multidisciplina
   * Dimension activity
     * [Histogram](diagrams/edge_scoped_metrics/DimensionActivity_histogram.pdf)
     *  Empirical distribution [separated](diagrams/edge_scoped_metrics/DimensionActivity_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/DimensionActivity_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/DimensionActivity_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/DimensionActivity_ecdf_containment_oneside.pdf)
+  * Node dimension connectivity
+    * [Histogram](diagrams/edge_scoped_metrics/NodeDimensionConnectivity_histogram.pdf)
+    *  Empirical distribution [separated](diagrams/edge_scoped_metrics/NodeDimensionConnectivity_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/NodeDimensionConnectivity_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/NodeDimensionConnectivity_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/NodeDimensionConnectivity_ecdf_containment_oneside.pdf)
+  * Node exlusive dimension connectivity
+    * [Histogram](diagrams/edge_scoped_metrics/NodeExclusiveDimensionConnectivity_histogram.pdf)
+    *  Empirical distribution [separated](diagrams/edge_scoped_metrics/NodeExclusiveDimensionConnectivity_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/NodeExclusiveDimensionConnectivity_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/NodeExclusiveDimensionConnectivity_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/NodeExclusiveDimensionConnectivity_ecdf_containment_oneside.pdf)
   * Edge dimension connectivity
     * [Histogram](diagrams/edge_scoped_metrics/EdgeDimensionConnectivity_histogram.pdf)
     *  Empirical distribution [separated](diagrams/edge_scoped_metrics/EdgeDimensionConnectivity_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/EdgeDimensionConnectivity_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/EdgeDimensionConnectivity_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/EdgeDimensionConnectivity_ecdf_containment_oneside.pdf)
+  * Number of typed edges
+    * [Histogram](diagrams/edge_scoped_metrics/NumberOfTypedEdges_histogram.pdf)
+    *  Empirical distribution [separated](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_containment_oneside.pdf)
