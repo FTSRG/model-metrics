@@ -30,8 +30,8 @@ _Towards the Characterization of Realistic Models: Evaluation of Multidisciplina
     *  Empirical distribution [separated](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf.pdf), [overplotted](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_oneside.pdf), [by containment](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_containment.pdf), [by containment overplotted](diagrams/edge_scoped_metrics/NumberOfTypedEdges_ecdf_containment_oneside.pdf)
 * Dimension pairs
   * Pairwise multiplexity
-    *[Histogram](diagrams/edge_edge/PairwiseMultiplexity.pdf)
-    *[Empirical distribution overplotted](diagrams/edge_edge/PairwiseMultiplexity_ecdf.pdf)
+    * [Histogram](diagrams/edge_edge/PairwiseMultiplexity.pdf)
+    * [Empirical distribution overplotted](diagrams/edge_edge/PairwiseMultiplexity_ecdf.pdf)
 * Node-scoped metrics
   * Clustering coefficient [histogram](diagrams/node_scoped_metrics/ClusteringCoefficientList.pdf), [empirical distribution overplotted](diagrams/node_scoped_metrics/ClusteringCoefficientList_ecdf.pdf)
   * Degree [histogram](diagrams/node_scoped_metrics/DegreetList.pdf), [empirical distribution overplotted](diagrams/node_scoped_metrics/DegreeList_ecdf.pdf)
