@@ -2,8 +2,13 @@
 layout: default
 ---
 
-### Supplementary material for the submitted MODELS paper 
-_Towards the Characterization of Realistic Models: Evaluation of Multidisciplinary Graph Metrics_
+Supplementary material for our [paper](https://inf.mit.bme.hu/research/publications/towards-characterization-realistic-models-evaluation-multidisciplinary-graph-m):
+
+Gábor Szárnyas, Zsolt Kővári, Ágnes Salánki, Dániel Varró, _"Towards the Characterization of Realistic Models: Evaluation of Multidisciplinary Graph Metrics"_, ACM/IEEE 19th International Conference on Model Driven Engineering Languages and Systems, MODELS 2016, Saint Malo, France, 2016.
+
+The analyzer component and the raw data are available in the following repositories:
+* [Model analyzer](https://github.com/FTSRG/model-analyzer)
+* [Raw data (TSVs)](https://gitlab.com/FTSRG/model-metrics-data)
 
 #### Plots
 
