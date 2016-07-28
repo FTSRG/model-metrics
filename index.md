@@ -2,15 +2,22 @@
 layout: default
 ---
 
-Supplementary material for our [paper](https://inf.mit.bme.hu/research/publications/towards-characterization-realistic-models-evaluation-multidisciplinary-graph-m):
+# Model Metrics
+
+This page provides supplementary material for our [paper](https://inf.mit.bme.hu/research/publications/towards-characterization-realistic-models-evaluation-multidisciplinary-graph-m):
 
 Gábor Szárnyas, Zsolt Kővári, Ágnes Salánki, Dániel Varró, _"Towards the Characterization of Realistic Models: Evaluation of Multidisciplinary Graph Metrics"_, ACM/IEEE 19th International Conference on Model Driven Engineering Languages and Systems, MODELS 2016, Saint Malo, France, 2016.
 
+## Data
+
 The analyzer component and the raw data are available in the following repositories:
+
 * [Model analyzer](https://github.com/FTSRG/model-analyzer)
 * [Raw data (TSVs)](https://gitlab.com/FTSRG/model-metrics-data)
 
-#### Plots
+Feel free to contact the authors for any further information.
+
+## Plots
 
 * One-dimensional descriptive metrics
   * [Number of edges vs number of nodes of instance models](diagrams/general/nodes_vs_edges.pdf)
